@@ -1,4 +1,4 @@
-# Testing Playstation Features
+# Testing Playstation Title
 
 For this testing, I am using Selenium Webdriver and Unittesting.
 This is a little fun introduction experiement that I did for getting an understanding of Selenium and testing. 
